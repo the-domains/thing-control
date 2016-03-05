@@ -1,0 +1,28 @@
+name: Thing Control
+favicon: null
+layout_spectrum: 0.39244083361700177
+typography_spectrum: 0.3323469618335366
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.8929405657108873
+  lightness: 0.5856915742624551
+  saturation: 0.3449013268109411
+  rhythmicContrast: 0.4188467066269368
+purpose: []
